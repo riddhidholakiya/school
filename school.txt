@@ -3,3 +3,6 @@ this is a school applicatione
 clasroom
 sithing areya
 techers
+
+books
+bags
