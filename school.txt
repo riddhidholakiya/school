@@ -9,3 +9,6 @@ bags
 
 tools
 notbooks
+
+games
+playground
